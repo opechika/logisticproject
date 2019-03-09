@@ -4,7 +4,6 @@ import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 
 import co.uk.next.helper.Helper;
-import co.uk.next.stepdefinitions.ResultPage;
 
 public class HomePage extends Helper 
 {
@@ -21,7 +20,6 @@ Assert.assertTrue(logo.isDisplayed());
 public void enterAnItemIntoSearchBar(String item) throws Exception
 {
 	searchbar = getElementByClassName("SearchBox");
-	//searchbar = getElementById("SearchBox");
 	searchbar.sendKeys(item);
 }
 public ResultPage clickOnButton() throws Exception

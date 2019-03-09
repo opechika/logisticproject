@@ -1,6 +1,7 @@
 package co.uk.next.stepdefinitions;
 
 import co.uk.next.pages.HomePage;
+import co.uk.next.pages.ResultPage;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -27,7 +28,8 @@ public class NextSearchSteps {
 	}
 
 	@Then("^the result of \"([^\"]*)\" is displayed$")
-	public void the_result_of_is_displayed(String arg1) throws Throwable {
+	public void the_result_of_is_displayed(String result) throws Throwable {
+		resultPage.isResultTitleDisplayed(result);
 	   
 	}
 
