@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="25" failures="0" name="co.uk.next.runners.TestRunner" time="16.636" errors="0" skipped="0">
+<testsuite tests="25" failures="0" name="co.uk.next.runners.TestRunner" time="19.16" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
@@ -69,25 +69,25 @@
   <testcase classname="| Women Dress |" name="When I enter &quot;Women Dress&quot; into the search bar" time="0"/>
   <testcase classname="| Women Dress |" name="And I click on the search button" time="0"/>
   <testcase classname="| Women Dress |" name="Then the result of &quot;Women Dress&quot; is displayed" time="0"/>
-  <testcase classname="| Women Dress |" name="| Women Dress |" time="3.622"/>
+  <testcase classname="| Women Dress |" name="| Women Dress |" time="3.73"/>
   <testcase classname="| Men Jacket |" name="Given I am Next homepage" time="0"/>
   <testcase classname="| Men Jacket |" name="When I enter &quot;Men Jacket&quot; into the search bar" time="0"/>
   <testcase classname="| Men Jacket |" name="And I click on the search button" time="0"/>
   <testcase classname="| Men Jacket |" name="Then the result of &quot;Men Jacket&quot; is displayed" time="0"/>
-  <testcase classname="| Men Jacket |" name="| Men Jacket |" time="4.127"/>
+  <testcase classname="| Men Jacket |" name="| Men Jacket |" time="4.211"/>
   <testcase classname="| Bra |" name="Given I am Next homepage" time="0"/>
   <testcase classname="| Bra |" name="When I enter &quot;Bra&quot; into the search bar" time="0"/>
   <testcase classname="| Bra |" name="And I click on the search button" time="0"/>
   <testcase classname="| Bra |" name="Then the result of &quot;Bra&quot; is displayed" time="0"/>
-  <testcase classname="| Bra |" name="| Bra |" time="1.556"/>
+  <testcase classname="| Bra |" name="| Bra |" time="3.538"/>
   <testcase classname="| Girls Skirts |" name="Given I am Next homepage" time="0"/>
   <testcase classname="| Girls Skirts |" name="When I enter &quot;Girls Skirts&quot; into the search bar" time="0"/>
   <testcase classname="| Girls Skirts |" name="And I click on the search button" time="0"/>
   <testcase classname="| Girls Skirts |" name="Then the result of &quot;Girls Skirts&quot; is displayed" time="0"/>
-  <testcase classname="| Girls Skirts |" name="| Girls Skirts |" time="3.566"/>
+  <testcase classname="| Girls Skirts |" name="| Girls Skirts |" time="3.664"/>
   <testcase classname="| Boys Trousers |" name="Given I am Next homepage" time="0"/>
   <testcase classname="| Boys Trousers |" name="When I enter &quot;Boys Trousers&quot; into the search bar" time="0"/>
   <testcase classname="| Boys Trousers |" name="And I click on the search button" time="0"/>
   <testcase classname="| Boys Trousers |" name="Then the result of &quot;Boys Trousers&quot; is displayed" time="0"/>
-  <testcase classname="| Boys Trousers |" name="| Boys Trousers |" time="3.765"/>
+  <testcase classname="| Boys Trousers |" name="| Boys Trousers |" time="4.017"/>
 </testsuite>
