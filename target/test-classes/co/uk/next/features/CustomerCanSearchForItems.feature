@@ -11,8 +11,6 @@ Scenario Outline: Customer Defined Search
 
 Examples:
 |Item|
-|Women Dress|
-|Men Jacket|
+|Dress|
 |Bra|
-|Girls Skirts|
-|Boys Trousers|
+|Trousers|

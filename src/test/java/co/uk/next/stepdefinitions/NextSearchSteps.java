@@ -30,6 +30,7 @@ public class NextSearchSteps {
 	@Then("^the result of \"([^\"]*)\" is displayed$")
 	public void the_result_of_is_displayed(String result) throws Throwable {
 		resultPage.isResultTitleDisplayed(result);
+		resultPage.isResultDisplayed(result);
 	   
 	}
 
